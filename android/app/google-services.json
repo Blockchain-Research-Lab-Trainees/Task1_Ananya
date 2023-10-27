@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223923671470",
+    "project_id": "task-1-brl",
+    "storage_bucket": "task-1-brl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223923671470:android:af5148f848a4b22841b83f",
+        "android_client_info": {
+          "package_name": "com.example.brl_task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6_b5eml2q-dR0J2eZxS5Q-9TGCjhPyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
